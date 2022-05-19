@@ -13,7 +13,7 @@ updateApp();
 export default {
   showLyrics: false,
   enableScrolling: true,
-  title: 'YesPlayMusic',
+  title: 'The 7E9FB-保持热爱，奔赴星辰大海',
   liked: {
     songs: [],
     songsWithDetails: [], // 只有前12首
