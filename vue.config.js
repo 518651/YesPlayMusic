@@ -38,7 +38,7 @@ module.exports = {
       entry: 'src/main.js',
       template: 'public/index.html',
       filename: 'index.html',
-      title: 'YesPlayMusic',
+      title: 'The 7E9FB-保持热爱，奔赴星辰大海',
       chunks: ['main', 'chunk-vendors', 'chunk-common', 'index'],
     },
   },
