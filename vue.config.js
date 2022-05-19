@@ -21,7 +21,7 @@ module.exports = {
     },
   },
   pwa: {
-    name: 'YesPlayMusic',
+    name: 'The 7E9FB-保持热爱，奔赴星辰大海',
     iconPaths: {
       favicon32: 'img/icons/favicon-32x32.png',
     },
