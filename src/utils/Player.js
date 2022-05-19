@@ -32,8 +32,8 @@ const excludeSaveKeys = [
 
 function setTitle(track) {
   document.title = track
-    ? `${track.name} · ${track.ar[0].name} - -保持热爱，奔赴星辰大海`
-    : '-保持热爱，奔赴星辰大海';
+    ? `${track.name} · ${track.ar[0].name} -保持热爱，奔赴星辰大海`
+    : '保持热爱，奔赴星辰大海';
   if (isCreateTray) {
     ipcRenderer?.send('updateTrayTooltip', document.title);
   }
